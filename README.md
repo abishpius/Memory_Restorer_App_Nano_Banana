@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1GvM4Dq-LXQ39JAMkteau0YD3Lqj_O-i-
+View the app Live: [https://ai.studio/apps/drive/1GvM4Dq-LXQ39JAMkteau0YD3Lqj_O-i-](https://memory-restorer-602402744184.us-west1.run.app)
 
 ## Run Locally
 
